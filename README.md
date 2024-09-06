@@ -1,4 +1,4 @@
-# Hello, I’m Syed Kamil Zafar 👋
+# Syed Kamil Zafar 
 
 ### 🌐 Cloud Applied Artificial Intelligence Enthusiast
 
@@ -14,9 +14,7 @@ My mission is to harness the power of AI to create innovative, scalable solution
 
 ## 💻 Tech Stack
 
-Here are the technologies I work with:
-
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat&logo=fastapi&logoColor=white) - ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white) - ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat&logo=react&logoColor=white) - ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) - ![OpenAI](https://img.shields.io/badge/-OpenAI-1B1F23?style=flat&logo=openai&logoColor=white) - ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6F00?style=flat&logo=crewai&logoColor=white) - ![Gemini](https://img.shields.io/badge/-Gemini-FFD700?style=flat&logo=gemini&logoColor=white) - ![LLama](https://img.shields.io/badge/-LLama-FF69B4?style=flat&logo=llama&logoColor=white) - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) - ![Langchain](https://img.shields.io/badge/-Langchain-FFA500?style=flat&amp;logo=langchain&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat&logo=fastapi&logoColor=white)  ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)  ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat&logo=react&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)  ![OpenAI](https://img.shields.io/badge/-OpenAI-1B1F23?style=flat&logo=openai&logoColor=white)  ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6F00?style=flat&logo=crewai&logoColor=white)  ![Gemini](https://img.shields.io/badge/-Gemini-FFD700?style=flat&logo=gemini&logoColor=white)  ![LLama](https://img.shields.io/badge/-LLama-FF69B4?style=flat&logo=llama&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Langchain](https://img.shields.io/badge/-Langchain-FFA500?style=flat&amp;logo=langchain&amp;logoColor=white)
 
 ---
 
