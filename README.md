@@ -20,7 +20,7 @@ My mission is to harness the power of AI to create innovative, scalable solution
 
 ## 🔧 Technical Proficiency
 
-- **Front-end Development**: Expertise in Next.js, TypeScript, and Tailwind CSS for creating intuitive user interfaces.
+- **Front-end Development**: Expertise in Next.js, React.js, and Tailwind CSS for creating intuitive user interfaces.
 - **Backend Engineering**: Skilled in Python, FastAPI, and SQLModel for developing robust and scalable APIs.
 - **AI and ML Integration**: Deep experience with Langchain, OpenAI SDK, and other state-of-the-art AI tools.
 - **Cloud and DevOps**: Proficient in using Docker and serverless containers for scalable deployments, with expertise in CI/CD pipelines using GitHub Actions.
