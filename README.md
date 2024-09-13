@@ -1,8 +1,8 @@
 # Syed Kamil Zafar 
 
-### 🌐 Cloud Applied Artificial Intelligence Enthusiast
+### 🌐 Full Stack Developer
 
-I am a dedicated learner and practitioner in Cloud Applied Artificial Intelligence. With a strong foundation in AI application development, I specialize in building full end-to-end AI solutions using the latest technologies and microservices architecture.
+I am a Full Stack Develop. With a strong foundation in AI application development, I specialize in building full end-to-end AI solutions using the latest technologies and microservices architecture.
 
 ---
 
